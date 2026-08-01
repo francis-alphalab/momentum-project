@@ -18,6 +18,9 @@ whether recent winners keep outperforming over the following month.
   monthly returns, and current top-ranked holdings.
 
 ## Running the dashboard
+## Live app
+
+[Live app](https://momentum-project.streamlit.app)
 pip install streamlit yfinance pandas numpy plotly requests
 streamlit run momentum_dash.py
 
